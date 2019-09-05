@@ -15,24 +15,24 @@ const example = {
   "name": "Example",
   "email": "examples@you.edu",
   "gender": "F"
-}
+};
 
 // Write your intern objects here:
-const Mitzi {
+const Mitzi = {
   "id": 1,
   "name": "Mitzi",
   "email": "mmelloy0@psu.edu",
   "gender" : "F"
-}
+};
 
-const Kennan {
+const Kennan = {
   "id": 2,
   "name": "Kennan",
   "email": "kdiben1@tinypic.com",
   "gender" : "M"
 }
 
-const Keven {
+const Keven = {
   "id": 3,
   "name": "Keven",
   "email": "kmummery2@wikimedia.org",
@@ -43,14 +43,14 @@ const Keven {
 // 3,kmummery2@wikimedia.org,Keven,M
 // 4,gmartinson3@illinois.edu,Gannie,M
 // 5,adaine5@samsung.com,Antonietta,F
-const Gannie {
+const Gannie = {
   "id": 4,
   "name": "Gannie",
   "email": "gmartinson3@illinois.edu",
   "gender" : "M"
 }
 
-const Antonietta {
+const Antonietta = {
   "id": 5,
   "name": "Antonietta",
   "email": "adaine5@samsung.com",
